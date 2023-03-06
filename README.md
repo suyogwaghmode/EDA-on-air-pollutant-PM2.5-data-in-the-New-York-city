@@ -1,4 +1,4 @@
-#EDA of air pollutant (PM 2.5) in the New York City (2022)
+EDA of air pollutant (PM 2.5) in the New York City (2022)
 
 Aim of study: To do an exploratory data analysis on particulate matter (PM 2.5) data in the New York city
 
